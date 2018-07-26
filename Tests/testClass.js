@@ -20,3 +20,17 @@ let rect = new Rectangle(50, 100);
 console.log(rect.area);
 
 console.log(rect.width);
+
+
+function printName(firstName, lastName) {
+    console.log('do stuff' + ' more stuff');
+}
+
+function printName(firstName = 'daj ime') {
+    console.log(firstName);
+}
+
+
+printName('test');
+printName('fist', 'last');
+printName();
