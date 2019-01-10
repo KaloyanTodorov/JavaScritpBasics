@@ -2,41 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b8fb30-f088-408e-aec0-b1c263ddf0c0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CanvasTest/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CanvasTest/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks5/01-HeroicInventory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CanvasTest/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CanvasTest/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,8 +69,6 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -100,18 +76,10 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1348" />
-    <option name="height" value="730" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -126,13 +94,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="JudgeHomeworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JudgeHomeworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JudgeHomeworks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JudgeHomeworks" type="462c0819:PsiDirectoryNode" />
-              <item name="CanvasTest" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaScritpBasics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScritpBasics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,7 +107,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test Project 01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
@@ -175,11 +138,21 @@
     </option>
   </component>
   <component name="RunManager" selected="Node.js.script.js">
-    <configuration name="01-HeroicInventory.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="01-HeroicInventory.js" working-dir="$PROJECT_DIR$/Homeworks5" />
-    <configuration name="08-CityMarkets.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="08-CityMarkets.js" working-dir="$PROJECT_DIR$/Lab2 - Objects" />
-    <configuration name="09-LowestCityPrice.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="09-LowestCityPrice.js" working-dir="$PROJECT_DIR$/Lab2 - Objects" />
-    <configuration name="10-ExtractUniqueWords.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="10-ExtractUniqueWords.js" working-dir="$PROJECT_DIR$/Lab2 - Objects" />
-    <configuration name="script.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CanvasTest/script.js" working-dir="$PROJECT_DIR$/CanvasTest" />
+    <configuration name="01-HeroicInventory.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="01-HeroicInventory.js" working-dir="$PROJECT_DIR$/Homeworks5">
+      <method v="2" />
+    </configuration>
+    <configuration name="08-CityMarkets.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="08-CityMarkets.js" working-dir="$PROJECT_DIR$/Lab2 - Objects">
+      <method v="2" />
+    </configuration>
+    <configuration name="09-LowestCityPrice.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="09-LowestCityPrice.js" working-dir="$PROJECT_DIR$/Lab2 - Objects">
+      <method v="2" />
+    </configuration>
+    <configuration name="10-ExtractUniqueWords.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="10-ExtractUniqueWords.js" working-dir="$PROJECT_DIR$/Lab2 - Objects">
+      <method v="2" />
+    </configuration>
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CanvasTest/script.js" working-dir="$PROJECT_DIR$/CanvasTest">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Node.js.08-CityMarkets.js" />
       <item itemvalue="Node.js.09-LowestCityPrice.js" />
@@ -211,6 +184,7 @@
       <workItem from="1532599922750" duration="12000" />
       <workItem from="1532600072440" duration="33839000" />
       <workItem from="1533421471317" duration="34978000" />
+      <workItem from="1544521100048" duration="873000" />
     </task>
     <task id="LOCAL-00001" summary="First set of homeworks added">
       <created>1532556556018</created>
@@ -265,7 +239,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70104000" />
+    <option name="totallyTimeSpent" value="70977000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,32 +251,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6298744" visible="true" weight="0.34757835" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48975545" weight="0.3988604" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990086" weight="0.2277628" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.3701256" side_tool="true" visible="true" weight="0.34757835" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4990086" weight="0.4272237" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6298744" visible="true" weight="0.34757835" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4990086" weight="0.32884097" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48975545" weight="0.3988604" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4990086" weight="0.32884097" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3701256" side_tool="true" visible="true" weight="0.34744525" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4990086" weight="0.4272237" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First set of homeworks added" />
@@ -353,68 +324,22 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Lab2 - Objects/04-SumByTown.js</url>
           <line>4</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Lab2 - Objects/09-LowestCityPrice.js</url>
           <line>16</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Homeworks5/01-HeroicInventory.js</url>
           <line>3</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tests/Test04.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab2 - Objects/01-TownsToJSON.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab2 - Objects/02-ScoreToHTML.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab2 - Objects/02-ScoreToHTML.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Test05.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/testClass.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homeworks1/01.02-SumAndVAT.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
