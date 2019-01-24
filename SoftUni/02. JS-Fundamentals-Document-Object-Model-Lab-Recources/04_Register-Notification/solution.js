@@ -10,21 +10,20 @@ function register() {
     let result = document.getElementById('result');
     let header = document.createElement('h1');
     header.textContent = 'Successful Registration!';
-    let usernameDiv = document.createTextNode('Username: ' + username.value);
-    const br1 = document.createElement('br');
-    let emailDiv = document.createTextNode('Email: ' + email.value);
-    const br2 = document.createElement('br');
-    let passwordDiv = document.createTextNode('Password: ' + '*'.repeat(password.value.length));
     
     result.appendChild(header);
-    result.appendChild(usernameDiv);
-    result.appendChild(br1);
-    result.appendChild(emailDiv);
-    result.appendChild(br2);
-    result.appendChild(passwordDiv);
+    result.innerHTML += 'Username: ' + username.value;
+    result.appendChild(document.createElement('br'));
+    result.innerHTML += 'Email: ' + email.value;
+    result.appendChild(document.createElement('br'));
+    result.innerHTML += 'Password: ' + '*'.repeat(password.value.length);
+
+    username.value = '';
+    email.value = '';
+    password.value = '';
 
     setTimeout(function() {
-      result.style.display = 'none';
+      result.remove();
     }, 5000);
   }
 }
