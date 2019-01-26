@@ -11,8 +11,8 @@ function solve() {
     nextButton.addEventListener('click', showFirstStep);
 
     function hideContainer() {
-        let container = document.getElementById('exercise');
-        container.style.visibility = 'hidden';
+        let container = document.querySelector('#exercise > section');
+        container.style.display = 'none';
     }
 
     function showFirstStep() {

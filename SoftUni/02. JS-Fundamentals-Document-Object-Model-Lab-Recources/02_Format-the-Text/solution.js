@@ -1,25 +1,27 @@
-function solve(){
-  let input = document.getElementById('input');
-  const inputArray = input.textContent.split('.');
-
-  let counter = 0;
-  let p;
-  let output = document.getElementById('output');
-  for (let i = 0; i < inputArray.length; i++) {
-    if(counter === 0) {
-      p = document.createElement('p');
+function solve() {
+  
+    let input = document.getElementById('input').textContent;
+    let outputElement = document.getElementById('output');
+ 
+    let sentencePattern = /["']?[A-Z][^.?!]+((?![.?!]['"]?\s["']?[A-Z][^.?!]).)+[.?!'"]+/g;
+    let sentences = input.match(sentencePattern);
+ 
+    for (let i = 0; i < sentences.length-2; i += 3) {
+      let currParagraph = document.createElement('p');
+      currParagraph.textContent = sentences[i] + '' + sentences[i + 1] + '' + sentences[i + 2];
+      outputElement.appendChild(currParagraph)
     }
-    counter++;
-    let sentence = inputArray[i];
-    if(i < inputArray.length - 1) {
-      sentence += '. ';
-    }
-    p.textContent += sentence;
-    if(counter === 3) {
-      counter = 0;
-      output.appendChild(p);
-    } else if(i === inputArray.length - 1) {
-      output.appendChild(p);
+ 
+    if (sentences.length % 3 !== 0) {
+      let remainingSentences = sentences.length % 3;
+      let start = sentences.length - 1 - remainingSentences;
+      let text='';
+ 
+      for (let i = start; i < sentences.length; i++) {
+        text+= sentences[i] + '';
+      }
+      let lastParagraph = document.createElement('p');
+        lastParagraph.textContent = text;
+        outputElement.appendChild(lastParagraph)
     }
   }
-}
