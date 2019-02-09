@@ -32,12 +32,12 @@ function validate() {
             July: '07',
             August: '08',
             September: '09',
-            October: ' 10',
+            October: '10',
             November: '11',
             December: '12',
         }
         const monthToCode = monthToObj[month.value];
-        const dayToCode = day.value > 10 ? day.value : '0' + day.value;
+        const dayToCode = day.value >= 10 || day.value.length > 1 ? day.value : '0' + day.value;
         const genderToObj = {
             Male: 2,
             Female: 1,

@@ -14,9 +14,9 @@ function solve(day, service, time) {
             price += 2.50;
         }
         switch(service) {
-            case "Fitness": price = 5.00; break;
-            case "Sauna": price = 4.00; break;
-            case "Instructor": price = 10.00; break;       
+            case "Fitness": price += 5.00; break;
+            case "Sauna": price += 4.00; break;
+            case "Instructor": price += 10.00; break;       
         }
     }
     console.log(price);

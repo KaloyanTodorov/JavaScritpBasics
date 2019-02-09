@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83b8fb30-f088-408e-aec0-b1c263ddf0c0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. JS-Fundamentals-Document-Object-Model-Exercise-Resources/07_Table-Search-Engine/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. JS-Fundamentals-Document-Object-Model-Exercise-Resources/07_Table-Search-Engine/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. JS-Fundamentals-Document-Object-Model-Exercise-Resources/10_No-Signal/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. JS-Fundamentals-Document-Object-Model-Exercise-Resources/10_No-Signal/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. JS-Fundamentals-Document-Object-Model-Lab-Recources/05_Visited-Sites/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/02. JS-Fundamentals-Document-Object-Model-Lab-Recources/05_Visited-Sites/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. JS-Fundamentals-Document-Object-Model-More-Exercises-Resources.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. JS-Fundamentals-Document-Object-Model-More-Exercises.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.JS-Funcamentals-DOM-More-Exercises/01_Numpad-Calculator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/02.JS-Funcamentals-DOM-More-Exercises/01_Numpad-Calculator/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.JS-Funcamentals-DOM-More-Exercises/02_Order-the-Names/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/02.JS-Funcamentals-DOM-More-Exercises/02_Order-the-Names/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/03_EGN-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/03_EGN-Validator/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/06_Greatest-Common-Divisor/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/06_Greatest-Common-Divisor/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/07_Binary-Search/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/07_Binary-Search/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/08_Hailstone-Sequence/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/08_Hailstone-Sequence/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/09_Dot-Product/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/09_Dot-Product/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/10_Factors/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/03. JS-Fundamentals-Functions-and-Logic-Flow-Exercise-Resources/10_Factors/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4. JS-Fundamentals-Functions-and-Arrow-Functions-Lab (1).docx" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,7 +28,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05. JS-Fundamentals-Strings-and-RegEx-Exercise-Resources/02_Expedition-Problems/template.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05. JS-Fundamentals-Strings-and-RegEx-Exercise-Resources/02_Expedition-Problems/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,7 +55,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -66,6 +95,7 @@
         <option value="$PROJECT_DIR$/Homeworks5/01-HeroicInventory.js" />
         <option value="$PROJECT_DIR$/ChessGame/imdex.html" />
         <option value="$PROJECT_DIR$/ChessGame/script.js" />
+        <option value="$PROJECT_DIR$/05. JS-Fundamentals-Strings-and-RegEx-Exercise-Resources/02_Expedition-Problems/solution.js" />
       </list>
     </option>
   </component>
@@ -89,18 +119,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaScritpBasics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScritpBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="SoftUni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftUni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
+              <item name="05. JS-Fundamentals-Strings-and-RegEx-Exercise-Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoftUni" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoftUni" type="462c0819:PsiDirectoryNode" />
+              <item name="05. JS-Fundamentals-Strings-and-RegEx-Exercise-Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Expedition-Problems" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,6 +226,7 @@
       <workItem from="1532600072440" duration="33839000" />
       <workItem from="1533421471317" duration="34978000" />
       <workItem from="1544521100048" duration="873000" />
+      <workItem from="1549127987318" duration="136000" />
     </task>
     <task id="LOCAL-00001" summary="First set of homeworks added">
       <created>1532556556018</created>
@@ -239,7 +281,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70977000" />
+    <option name="totallyTimeSpent" value="71113000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,21 +293,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6298744" visible="true" weight="0.34757835" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6298744" weight="0.34757835" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48975545" weight="0.3988604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4990086" weight="0.2277628" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4990086" weight="0.32884097" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3701256" side_tool="true" visible="true" weight="0.34744525" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3709293" side_tool="true" visible="true" weight="0.34744525" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4990086" weight="0.4272237" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -585,6 +628,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. JS-Fundamentals-Strings-and-RegEx-Exercise-Resources/02_Expedition-Problems/template.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. JS-Fundamentals-Strings-and-RegEx-Exercise-Resources/02_Expedition-Problems/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
