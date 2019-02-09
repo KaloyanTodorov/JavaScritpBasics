@@ -24,6 +24,7 @@ function solve() {
         }
       }
 
+      store[product.name].price = product.price;
       store[product.name].quantity += product.quantity;
       printAllAddedProducts(product, logInput);
     });
@@ -47,10 +48,10 @@ function solve() {
   }
 
   function endBuy(){
-    logInput.value += `Profit: ${profit}.`;
-    addProductsButton.setAttribute('disabled', true);
-    buyProductsButton.setAttribute('disabled', true);
-    endDayButton.setAttribute('disabled', true);
+    logInput.value += `Profit: ${profit.toFixed(2)}.\n`;
+    // addProductsButton.setAttribute('disabled', true);
+    // buyProductsButton.setAttribute('disabled', true);
+    // endDayButton.setAttribute('disabled', true);
 
     addProductsButton.removeEventListener('click', loadProducts);
     buyProductsButton.removeEventListener('click', buyProducts);
